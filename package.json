@@ -9,7 +9,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "@drift-labs/sdk": "^2.67.0-beta.5"
+    "@drift-labs/sdk": "^2.67.0-beta.5",
+    "@solana/web3.js": "^1.90.0"
   },
   "devDependencies": {
     "typescript": "^5.3.3"
